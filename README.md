@@ -1,3 +1,3 @@
 # CPE301FINAL
-Group name: 7uice /n
+Group name: 7uice  
 Group members: Seth Begonia
